@@ -1,0 +1,9 @@
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\HW\Java\475_Calculator v 1.0\Calculator v 1.0\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
